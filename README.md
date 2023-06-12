@@ -1,3 +1,1 @@
-- 👋 Hi, I’m ako ^w^
-- 👀 I’m interested in anime, programing 
-- 🌱 I’m currently learning in school 
+
